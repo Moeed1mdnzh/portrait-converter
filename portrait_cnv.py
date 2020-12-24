@@ -18,8 +18,8 @@ for sv in np.unique(sgm):
     cv2.imshow("mask",applied)
     cv2.waitKey(1)
 
-blur = cv2.erode(img,kernel)
-cv2.imshow("clone",np.hstack([blur,clone]))
+erode = cv2.erode(img,kernel)
+cv2.imshow("clone",np.hstack([erode,clone]))
 cv2.waitKey(0)
 
 
