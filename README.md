@@ -9,6 +9,10 @@ path of your image as an input.
 
 # Examples
 
+![](https://github.com/Moeed1mdnzh/portrait-converter/blob/master/examples/exp1.jpg)
+![](https://github.com/Moeed1mdnzh/portrait-converter/blob/master/examples/exp2.jpg)
+![](https://github.com/Moeed1mdnzh/portrait-converter/blob/master/examples/exp3.jpg)
+
 # Requirements
 
 opencv-python, numpy, scikit-image
