@@ -16,3 +16,4 @@ path of your image as an input.
 # Requirements
 
 opencv-python, numpy, scikit-image
+https://youtu.be/OTmQOjsl0eg
